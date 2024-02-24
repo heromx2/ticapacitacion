@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "umQCSs8qNDM8wjjYx/JKjoCggZNEn1Ek1qFIImpz7X+K0+Sve7csf8ls6fTW6QQiUG3HxUEBPNAO7Cn2VPRQvg==",
+  "dgSpecHash": "sHKYdyStdwlsEDS43Dd3HPnlJ5ozhavf6D3bhPJjeXfuBBK3IWTApsn6HujHzNO/rNzvM7OHmNpBg3D+160uyg==",
   "success": true,
-  "projectFilePath": "C:\\dinet\\Ej0101\\WinFormsApp\\WinFormsApp.csproj",
+  "projectFilePath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\WinFormsApp\\WinFormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\herox\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\herox\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

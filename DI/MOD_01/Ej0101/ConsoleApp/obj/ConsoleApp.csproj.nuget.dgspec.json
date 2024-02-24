@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dinet\\Ej0101\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\dinet\\Ej0101\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dinet\\Ej0101\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\dinet\\Ej0101\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\herox\\.nuget\\packages\\",
-        "outputPath": "C:\\dinet\\Ej0101\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
-                "projectPath": "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj"
+              "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
+                "projectPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
+    "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj",
+        "projectPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj",
         "packagesPath": "C:\\Users\\herox\\.nuget\\packages\\",
-        "outputPath": "C:\\dinet\\Ej0101\\MyLibrary\\obj\\",
+        "outputPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

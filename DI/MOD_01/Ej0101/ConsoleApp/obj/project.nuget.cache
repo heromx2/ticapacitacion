@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6CtoVj7R6ruOTYWr3V2EH98Jcu82beo5r2Pnd8Uh801Z64lcjF5fo9HlzCt+eNjsT2XW78VKAGu2o9s+66XKQ==",
+  "dgSpecHash": "WBvf4yUMgaFcYvyxqGaB1CpsLP/DxJPHI+ra2QppaGWyzSvE5QvNA/RNwWOp9KzaOLJttD4Z8Sv2jCK78DP51w==",
   "success": true,
-  "projectFilePath": "C:\\dinet\\Ej0101\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\herox\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\herox\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

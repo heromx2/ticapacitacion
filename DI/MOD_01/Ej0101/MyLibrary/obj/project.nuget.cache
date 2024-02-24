@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Di6tlRSRuKZyDNyZZDmFyDQwrgt1bUCm4n3kPIrxqtG2kGSZZ9+6/WVFD+tl47zDAd1hQujHUMPfNPg08DD6lQ==",
+  "dgSpecHash": "n8ZZQMPwJkU/jyqbpTioEajpaeLxZyVN9ggAF/LXEmt8Za1jz1fQEcxCZnbwARAwH33u23ray1UWC8bC7ayZeg==",
   "success": true,
-  "projectFilePath": "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj",
+  "projectFilePath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\herox\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\herox\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

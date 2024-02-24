@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dinet\\Ej0101\\WinFormsApp\\WinFormsApp.csproj": {}
+    "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\WinFormsApp\\WinFormsApp.csproj": {}
   },
   "projects": {
-    "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
+    "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj",
+        "projectPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj",
         "packagesPath": "C:\\Users\\herox\\.nuget\\packages\\",
-        "outputPath": "C:\\dinet\\Ej0101\\MyLibrary\\obj\\",
+        "outputPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\dinet\\Ej0101\\WinFormsApp\\WinFormsApp.csproj": {
+    "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\WinFormsApp\\WinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dinet\\Ej0101\\WinFormsApp\\WinFormsApp.csproj",
+        "projectUniqueName": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\WinFormsApp\\WinFormsApp.csproj",
         "projectName": "WinFormsApp",
-        "projectPath": "C:\\dinet\\Ej0101\\WinFormsApp\\WinFormsApp.csproj",
+        "projectPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\WinFormsApp\\WinFormsApp.csproj",
         "packagesPath": "C:\\Users\\herox\\.nuget\\packages\\",
-        "outputPath": "C:\\dinet\\Ej0101\\WinFormsApp\\obj\\",
+        "outputPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\WinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
-                "projectPath": "C:\\dinet\\Ej0101\\MyLibrary\\MyLibrary.csproj"
+              "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj": {
+                "projectPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0101\\MyLibrary\\MyLibrary.csproj"
               }
             }
           }
