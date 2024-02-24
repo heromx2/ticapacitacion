@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CleanArchitecture\\NorthWind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24CE580D-488C-4581-B3FD-F9881A559575}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|c:\\cleanarchitecture\\northwind\\northwind.razorcomponents\\navbars\\navmenuitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24CE580D-488C-4581-B3FD-F9881A559575}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|solutionrelative:northwind.razorcomponents\\navbars\\navmenuitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenuItem.razor",
+              "DocumentMoniker": "C:\\CleanArchitecture\\NorthWind\\NorthWind.RazorComponents\\NavBars\\NavMenuItem.razor",
+              "RelativeDocumentMoniker": "NorthWind.RazorComponents\\NavBars\\NavMenuItem.razor",
+              "ToolTip": "C:\\CleanArchitecture\\NorthWind\\NorthWind.RazorComponents\\NavBars\\NavMenuItem.razor",
+              "RelativeToolTip": "NorthWind.RazorComponents\\NavBars\\NavMenuItem.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T17:24:29.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

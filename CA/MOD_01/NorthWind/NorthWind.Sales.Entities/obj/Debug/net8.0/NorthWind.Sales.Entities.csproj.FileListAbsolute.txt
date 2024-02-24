@@ -1,0 +1,11 @@
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.deps.json
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfoInputs.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfo.cs
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\refint\NorthWind.Sales.Entities.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\ref\NorthWind.Sales.Entities.dll

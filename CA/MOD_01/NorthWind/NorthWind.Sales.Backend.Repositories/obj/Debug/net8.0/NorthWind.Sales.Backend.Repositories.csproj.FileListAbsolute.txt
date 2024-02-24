@@ -1,0 +1,17 @@
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.deps.json
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWind.Sales.Backend.Repositories.csproj.AssemblyReference.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWind.Sales.Backend.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWind.Sales.Backend.Repositories.AssemblyInfoInputs.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWind.Sales.Backend.Repositories.AssemblyInfo.cs
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWind.Sales.Backend.Repositories.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWind.Sales.Backend.Repositories.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Repositories.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWind.Sales.Backend.Repositories.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Repositories.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.Repositories\obj\Debug\net8.0\NorthWin.E6D5A925.Up2Date

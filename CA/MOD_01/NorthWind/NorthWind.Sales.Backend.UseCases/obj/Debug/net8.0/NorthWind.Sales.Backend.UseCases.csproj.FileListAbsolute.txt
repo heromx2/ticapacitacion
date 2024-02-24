@@ -1,0 +1,17 @@
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.deps.json
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.csproj.AssemblyReference.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.AssemblyInfoInputs.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.AssemblyInfo.cs
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.UseCases.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.UseCases.dll
+C:\CleanArchitecture\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWin.6E892F3A.Up2Date

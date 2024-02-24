@@ -1,0 +1,12 @@
+C:\dinet\Ej0101\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\dinet\Ej0101\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\dinet\Ej0101\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.AssemblyReference.cache
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\dinet\Ej0101\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
