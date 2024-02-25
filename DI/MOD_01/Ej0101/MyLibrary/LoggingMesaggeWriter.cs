@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Logging;
-
 namespace MyLibrary
 {
     public class LoggingMesaggeWriter(ILogger<LoggingMesaggeWriter> logger) : IMessageWriter

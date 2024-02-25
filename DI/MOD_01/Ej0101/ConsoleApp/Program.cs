@@ -20,6 +20,8 @@ Builder.Services.AddLogging(config =>
 
 using IHost AppHost = Builder.Build();
 
+// Aquí va el código de la aplicación
+
 AppHost.Run();
 
 // TODO : Utilizar la API de registro de sucesos integrada (ILogger)
