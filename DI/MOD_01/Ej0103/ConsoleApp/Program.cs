@@ -4,8 +4,7 @@ using MyLibrary;
 
 var Builder = Host.CreateApplicationBuilder();
 
-Builder.Services.AddSingleton<ExampleService>();
-Builder.Services.AddOptions<ExampleOptions>();
+Builder.Services.AddMyLibraryServices();
 
 using IHost AppHost = Builder.Build();
 
