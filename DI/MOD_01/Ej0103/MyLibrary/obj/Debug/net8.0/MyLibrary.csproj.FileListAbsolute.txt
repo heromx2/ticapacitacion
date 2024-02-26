@@ -1,0 +1,13 @@
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.AssemblyReference.cache
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.sourcelink.json
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\ticapacitacion\DI\MOD_01\Ej0103\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
