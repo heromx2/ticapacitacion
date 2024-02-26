@@ -3,15 +3,15 @@ using Microsoft.Extensions.Logging;
 
 namespace MyLibrary
 {
-    public class Worker(ILogger<Worker> messageWriter) : BackgroundService
+    public class Worker(ILogger<Worker> logger) : BackgroundService
     {
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             while (!stoppingToken.IsCancellationRequested)
             {
                 // .........
-                messageWriter.LogInformation(
-                    $"Worker running at: {DateTime.Now}");
+                logger.LogInformation(
+                    "Worker running at: {datetime}", DateTime.Now);
                 await Task.Delay(1000, stoppingToken);
             }
         }
