@@ -8,7 +8,7 @@ Builder.Services.AddMyLibraryServices();
 
 using IHost AppHost = Builder.Build();
 
-ExampleService Service = AppHost.Services.GetRequiredService<ExampleService>();
+IExampleService Service = AppHost.Services.GetRequiredService<IExampleService>();
 
 Console.WriteLine();
 Console.WriteLine("Press <enter> to finish.");

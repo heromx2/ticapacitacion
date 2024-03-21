@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|c:\\ticapacitacion\\di\\mod_01\\ej0103\\mylibrary\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\mylibrary\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{198B650D-C2C6-4039-B753-35A0DB82C63F}|ConsoleApp\\ConsoleApp.csproj|c:\\ticapacitacion\\di\\mod_01\\ej0103\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198B650D-C2C6-4039-B753-35A0DB82C63F}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\mylibrary\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\mylibrary\\iexampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4594F9-A06C-4420-95CB-D49E4E0751C3}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\iexampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\DependencyContainer.cs",
+              "ToolTip": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\DependencyContainer.cs",
+              "RelativeToolTip": "MyLibrary\\DependencyContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:35:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExampleService.cs",
+              "DocumentMoniker": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\IExampleService.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\IExampleService.cs",
+              "ToolTip": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\IExampleService.cs",
+              "RelativeToolTip": "MyLibrary\\IExampleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:33:19.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleService.cs",
+              "DocumentMoniker": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\ExampleService.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\ExampleService.cs",
+              "ToolTip": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\ExampleService.cs",
+              "RelativeToolTip": "MyLibrary\\ExampleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:32:36.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,22 +79,9 @@
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T20:44:53.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyContainer.cs",
-              "DocumentMoniker": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\DependencyContainer.cs",
-              "RelativeDocumentMoniker": "MyLibrary\\DependencyContainer.cs",
-              "ToolTip": "C:\\ticapacitacion\\DI\\MOD_01\\Ej0103\\MyLibrary\\DependencyContainer.cs",
-              "RelativeToolTip": "MyLibrary\\DependencyContainer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T20:23:04.64Z",
               "EditorCaption": ""
             }
           ]

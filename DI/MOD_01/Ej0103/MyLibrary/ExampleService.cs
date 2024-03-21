@@ -1,15 +1,10 @@
 ﻿using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyLibrary;
-public class ExampleService
+internal sealed class ExampleService : IExampleService
 {
-    public ExampleService() 
+    public ExampleService()
     {
         Console.WriteLine("{0} was selected",
             "ExampleService()");

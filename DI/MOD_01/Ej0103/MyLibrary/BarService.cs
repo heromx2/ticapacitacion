@@ -1,4 +1,4 @@
 ﻿namespace MyLibrary;
-public class BarService
+internal class BarService
 {
 }

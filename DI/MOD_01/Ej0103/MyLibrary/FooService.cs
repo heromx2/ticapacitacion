@@ -1,4 +1,4 @@
 ﻿namespace MyLibrary;
-public class FooService
+internal class FooService
 {
 }
